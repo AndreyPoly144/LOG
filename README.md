@@ -1,5 +1,5 @@
 Обработчик событий в файле dev.site/lib/Handlers/Iblock.php  
-Функция агента в файле dev.site/lib/Agents/Iblock.php 
+Функция агента в файле dev.site/lib/Agents/Iblock.php  
 Регистрация обработчиков и подключение обработчиков, а так же подключение функции агента происходит в файле event_handler.php, который в свою очередь подключается в файле init.php  
 agent_edit.png -  скрин редактирования агента  
 agent_list.png - скрин списка агентов  
